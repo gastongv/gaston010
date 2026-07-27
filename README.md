@@ -1,13 +1,14 @@
+
 <div align="center">
 
-# Gastón Villagra
+# Gastón Villagra (Guille)
 
 ### Infrastructure Engineer & DevOps | Automation Architect
 
-📍 Salta, Argentina &nbsp;•&nbsp; Griftin IT Outsourcing
+📍 Salta, Argentina
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston010gv/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gastongv)
 
 </div>
 
@@ -15,9 +16,11 @@
 
 ## 🧩 Sobre mí
 
-Ingeniero de infraestructura full-stack en producción: administro entornos **multi-tenant** con orquestación de contenedores, monitoreo, automatización (n8n) e integraciones WhatsApp/Meta para clientes reales en rubros de concesionarias, farmacia, créditos y salud.
+Ingeniero de infraestructura full-stack en producción: administro entornos **multi-tenant** con orquestación de contenedores, monitoreo, automatización (n8n) e integraciones WhatsApp/Meta para clientes reales en distintos rubros.
 
 Diseño sistemas que priorizan **alta disponibilidad**, **seguridad de credenciales** y **automatización end-to-end** por sobre soluciones manuales.
+
+Actualmente cursando la **Tecnicatura en Gestión de Infraestructura Cloud y DevOps** (UPATecO) y con la **Tecnicatura en Desarrollo de Software** completa.
 
 ---
 
@@ -56,12 +59,12 @@ Diseño sistemas que priorizan **alta disponibilidad**, **seguridad de credencia
 
 ## 🚀 Proyectos Destacados
 
-### 🔒 Griffin Monitor
-Plataforma Flask multi-cliente para observabilidad de infraestructura.
-`JWT + Refresh Tokens` · `TOTP 2FA` · `RBAC (3 roles)` · `Prometheus` · `8 dashboards de cliente`
+### 🔒 Plataforma de Monitoreo Multi-Cliente
+Plataforma Flask para observabilidad de infraestructura en entornos multi-tenant.
+`JWT + Refresh Tokens` · `TOTP 2FA` · `RBAC (3 roles)` · `Prometheus` · `Dashboards por cliente`
 
-### 🌙 Escuadrón Nocturno de Monitoreo
-Sistema autónomo de monitoreo nocturno con sub-agentes especializados y boundaries de seguridad a nivel OS.
+### 🌙 Sistema Autónomo de Monitoreo Nocturno
+Monitoreo automatizado con sub-agentes especializados y boundaries de seguridad a nivel OS.
 `Bash/Cron` · `Claude Code CLI` · `Cost tracking real`
 
 ### 💾 Backup Automatizado Multi-Tenant (Supabase)
@@ -69,7 +72,7 @@ Pipeline de respaldo full DDL+data con versionado en GitHub y reportes automáti
 `n8n` · `PL/pgSQL` · `unnest(ARRAY[...])` · `GitHub`
 
 ### 🔁 Migración de Infraestructura Zero-Downtime
-Migración completa de stack (Donweb/Dattaweb → Hostinger/Coolify) sin downtime perceptible para clientes en producción.
+Migración completa de stack (VPS legado → Hostinger/Coolify) sin downtime perceptible para clientes en producción.
 `Docker` · `DNS/SSL` · `Coolify` · `Nginx Reverse Proxy`
 
 ---
@@ -78,8 +81,14 @@ Migración completa de stack (Donweb/Dattaweb → Hostinger/Coolify) sin downtim
 
 <div align="center">
 
-![GitHub Stats](https://github.com/gastongv&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github.com/gastongvE&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gastongv&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastongv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=gastongv&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 

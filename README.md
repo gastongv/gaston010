@@ -78,8 +78,8 @@ Migración completa de stack (Donweb/Dattaweb → Hostinger/Coolify) sin downtim
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaston010&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastongvE&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github.com/gastongv&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github.com/gastongvE&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Gastón Villagra (Guille)
@@ -81,8 +80,8 @@ Migración completa de stack (VPS legado → Hostinger/Coolify) sin downtime per
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gastongv&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastongv&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gastongv&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gastongv&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
